@@ -2,8 +2,8 @@
 
 ## Manuscript
 
-- ./Breast_cancer_research_manuscript_Second_Revision.pdf
-- ./Supplementary.pdf
+- Breast_cancer_research_manuscript_Second_Revision.pdf
+- Supplementary.pdf
 
 ## Overview
 
@@ -12,11 +12,6 @@ This repository contains materials related to the manuscript:
 **Inflammatory Breast Cancer and Racial Disparities: A SEER Database Analysis of Survival Outcomes**
 
 The study evaluates breast cancer-specific survival among women with inflammatory breast cancer (IBC) and non-inflammatory locally advanced breast cancer using data from the Surveillance, Epidemiology, and End Results (SEER) Program.
-
-## Repository Contents
-
-- Manuscript
-- Supplementary material
 
 ## Methods
 

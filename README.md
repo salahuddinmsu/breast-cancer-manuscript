@@ -1,9 +1,10 @@
 # Inflammatory Breast Cancer and Racial Disparities
 
-## Manuscript
+## Manuscript Materials
 
-- Breast_cancer_research_manuscript_Second_Revision.pdf
-- Supplementary.pdf
+- [Revised Manuscript](docs/Breast_cancer_research_manuscript_Second_Revision.pdf)
+- [Supplementary Materials](docs/Supplementary.pdf)
+
 
 ## Overview
 

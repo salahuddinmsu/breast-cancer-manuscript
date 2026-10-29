@@ -1,0 +1,21 @@
+# Restricted and local data
+data/*
+!data/README.md
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.rds
+*.R*ata
+*.sav
+*.dta
+
+# R temporary and*project files
+.Rhistory
+.Ruserdata*.Rproj.user/
+
+# System files
+.DS_S*ore
+Thumbs.db
